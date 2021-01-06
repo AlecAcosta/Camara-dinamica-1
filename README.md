@@ -1,2 +1,2 @@
-# Camara dinamica 1
+# Camara dinamica 1 [GMS1]
  
